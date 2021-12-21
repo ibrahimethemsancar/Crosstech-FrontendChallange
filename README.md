@@ -3,6 +3,8 @@
 Uygulamayı clone'ladıktan sonra server kısmında "npm run dev" komutunu çalıştırarak ve client kısmında "npm start" komutunu çalıştırarak 
 ayağa kaldırabilirsiniz.
 
+Giriş için örnek mail adreslerini 
+
 # Uygulama Özellikleri
 
 1.Kullanıcı mail bilgisi ile sisteme giriş yapabilir.
