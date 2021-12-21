@@ -7,7 +7,7 @@ ayağa kaldırabilirsiniz.
 
 1.Kullanıcı mail bilgisi ile sisteme giriş yapabilir.
 2.Kullanıcı tüm task'ları  Home sayfasından görüntüleyebilir.
-3.Kullanıcı Home sayfasında ki Task'ların id kısmına tıklayarak Task'ların detaylarını görebilir.
+3.Kullanıcı Home sayfasındaki Task'ların id kısmına tıklayarak Task'ların detaylarını görebilir.
 4.Kullanıcı My Task kısmına gelerek kendi oluşturduğu tüm Tasklar'ı görüntüleyebilir.
 5.Kullanıcı My Task kısmında oluşturduğu Tasklar'ı silebilir ve güncelleyebilir.
 6.Kullanıcı kendi departman'ına atanan Task'ları listeleyebilir.
