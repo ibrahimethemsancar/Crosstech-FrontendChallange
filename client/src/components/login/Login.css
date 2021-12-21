@@ -1,0 +1,18 @@
+.submitBtn{
+    margin-left: 50%;
+    width: 10rem ;
+}
+.loginForm{
+    width: 400px;
+    position:absolute;
+  top:50%;
+  left:45%;
+  margin-top:30px; /* this is half the height of your div*/  
+  margin-left:-200px; 
+}
+.loginImg{
+  width: 550px;
+  height: 300px;
+  margin-left: 32rem;
+  margin-top: 4rem;
+}

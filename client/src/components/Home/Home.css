@@ -1,0 +1,18 @@
+.logOutBtn{
+    margin-left: 3rem;
+    width: max-content;
+}
+.userName{
+    color: aliceblue;
+    margin-left: 55rem;
+}
+.taskHeader{
+    text-align: center;
+    }
+
+.nav-item{
+    width: max-content;
+}
+.link{
+    text-decoration: none;
+}

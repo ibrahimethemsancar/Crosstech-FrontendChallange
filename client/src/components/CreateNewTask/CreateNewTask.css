@@ -1,0 +1,23 @@
+.form-control{
+    width: 40rem;
+}
+.entryDiv{
+    margin-left: 25%;
+    margin-top: 15%;
+}
+.form-control{
+    margin-bottom: 20px;
+    height: 3rem;
+    
+}
+.label{
+    float: left;
+    margin-right: 40px;
+}
+#firstLabel{
+    margin-right: 85px;
+}
+.newTaskBtn{
+    width: 15rem;
+    margin-left: 19rem
+}

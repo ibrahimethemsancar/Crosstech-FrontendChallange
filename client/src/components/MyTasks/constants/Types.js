@@ -1,0 +1,5 @@
+export const GET_MY_TASK_SUCCES = "GET_TASK_SUCCES";
+export const GET_MY_TASK_FAIL = "GET_TASK_FAIL";
+
+export const DELETE_MY_TASK="DELETE_MY_TASK";
+export const UPDATE_MY_TASK="UPDATE_MY_TASK";
