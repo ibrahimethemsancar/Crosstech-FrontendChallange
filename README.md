@@ -1,4 +1,4 @@
-﻿# MyTaskManagament
+﻿# MyTaskManagement
 
 Uygulamayı clone'ladıktan sonra server kısmında "npm run dev" komutunu çalıştırarak ve client kısmında "npm start" komutunu çalıştırarak 
 ayağa kaldırabilirsiniz.
